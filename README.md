@@ -1,13 +1,24 @@
-# Insira aqui o nome do exercício
+# Criança Educada
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
+* 🖥️ Exercício: Saída de dados e strigs (5) - Criança Educada
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: Prof.: Ermogenes & Prof.: Diego Neri
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md
   
 ## Enunciado
   
-Insira aqui a descrição do exercício
+Solicite que o usuário digite uma frase. Substitua as palavras da lista por uma sequência de símbolos (como `#@$%*!&`, por exemplo).
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+chato/chata, bobo/boba, feio/feia, boboca, bocó, tonto/tonta, palerma, paspalho/paspalha, tantã, panaca, pentelho/pentelha, burro/burra, besta
+
+Exemplo:
+
+```
+Me diga o que você pensa sobre o aluno que não faz a lição de casa: Eu acho que é um bobo, e que vai ficar boboca pra sempre.
+
+Eu sou uma criança educada. No seu lugar eu diria:
+Eu acho que é um #@$%*!&, e que vai ficar #@$%*!& pra sempre.
+```
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
